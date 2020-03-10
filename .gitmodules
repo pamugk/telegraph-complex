@@ -1,0 +1,9 @@
+[submodule "telegraph-client"]
+	path = telegraph-client
+	url = https://github.com/pamugk/telegraph-client.git
+[submodule "telegraph-server"]
+	path = telegraph-server
+	url = https://github.com/pamugk/telegraph-server.git
+[submodule "gtk-telegraph"]
+	path = gtk-telegraph
+	url = https://github.com/pamugk/gtk-telegraph.git
